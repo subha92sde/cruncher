@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.time.Year;
 
 @Entity
-@Table(name = "tbl_movie", schema = "zoro")
+@Table(name = "tbl_movie", schema = "cruncher-dev-v001")
 @Getter
 @Setter
 @AllArgsConstructor
